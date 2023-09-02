@@ -2,8 +2,12 @@
 
 Live site Link: https://project10-1f55c.web.app/
 About The Project:
-1)CSS,Bootstrap,js,React,ES6 used
-2)Project is all about medical and it's tools
-3)Services and booking service are given
-4)User can also check out docs profile
-5)User friendly
+
+-The project is all about medicine and it's tools
+-Services and booking services are given
+-User can also check out the docs profile
+-	User can make an appointment with our selected doctor
+-	Login/Register System and Log in with Google
+-	Users without login can’t make an appointment
+-	Technologies: React, React-Bootstrap, Firebase Authentication, ES6
+-	-User friendly
